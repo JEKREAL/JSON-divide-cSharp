@@ -1,0 +1,311 @@
+{
+  [
+    {
+      "hotel apartment tino castellarquato 11350 pag island": {
+        "Computed": "2022-01-23 10:57:46+00:00",
+        "Priority": 20,
+        "Sentiment": 90,
+        "IndustryID": 1,
+        "Phrase": "hotel apartment tino castellarquato 11350 pag island",
+        "Gender": 50,
+        "Meta": [
+          {
+            "SourceID": 95,
+            "Count": 10,
+            "Sentiment": 87
+          }
+        ],
+        "SentimentDistribution": [ 0, 1, 0, 2, 7 ],
+        "AspectsCounters": [],
+        "Data": {
+          "7631425750772040676": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Amazing management Maintenance is fast and super reliable. Been here 6 months and couldn't be happier with how responsive and caring they are all here definitely recommend to all",
+            "Title": "",
+            "Author": {
+              "Name": "Kayla Myers",
+              "Gender": "Female",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a/AATXAJzwAfnIYMkOlB7sIu71F-5lsMYDMxZZwTv3GCSd=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/dde5f4cacb0f5af7dc7ae13419f53f75.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "16920557413102371426": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Amazing management! We haven’t had a problem with the management, neighbors, or the apartment! I’d definitely recommend to everyone!",
+            "Title": "",
+            "Author": {
+              "Name": "Courtland Stephens",
+              "Gender": "Male",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a/AATXAJxNwIn1SxwuZ-NhMRsrBaCtn_f1YuEUvD5H10wX=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/135018eb45588cbc0a9c85b3d0296b03.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "9721000223295419826": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Ashley Cole is a great landlord. My apartment is beautiful. Very family oriented place to raise your family. Great environment all around. :)",
+            "Title": "",
+            "Author": {
+              "Name": "Cynthia Champlin",
+              "Gender": "Female",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a/AATXAJxn4OqbENU9TzhlTdPs9pvZBBZKClydaxnS1Zkh=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/b1bf1ce9d355f62eef803941ddfdbb48.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "4573811059829710561": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Such a great place to call home! The manager is amazing and always goes above and beyond.",
+            "Title": "",
+            "Author": {
+              "Name": "Kimberly Davis",
+              "Gender": "Unknown",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a/AATXAJwOFo-Rsrr7QBhNFVXrpD1RgnTVxAc-eX0DOGJR=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/41a49e26a89fb20d5ae70b2a99ca2c2e.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "10515428541688294526": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Lived here about 7 years I'm very glad I moved here",
+            "Title": "",
+            "Author": {
+              "Name": "Laurie Jones",
+              "Gender": "Female",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a-/AOh14GhlYSEl-TkldodKlsKXOJlSu2PGOuYQKNC_URQZQQ=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/d5d2164bd4db39295a999be047c8583c.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "8148235751068712456": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Great Staff! Great People! Great Location!",
+            "Title": "",
+            "Author": {
+              "Name": "Don Senior",
+              "Gender": "Male",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a/AATXAJxzps2R5Pm9sc4ytblR2eztgT0T1o_Z8h9Vd91G=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/26be1e8d2324cae423fae569a1b391ee.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "8281942745421526833": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Affordable housing that is well maintained and the manger is very easy to work with.",
+            "Title": "",
+            "Author": {
+              "Name": "Mike Boyd",
+              "Gender": "Unknown",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a-/AOh14GiBkbHKlDm0HpLV5mv-uIa-UiBPDJrXRyN-Vxfu=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/6a0706f7049c35bdc61a74d4c98b9d4c.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "8067003584491883154": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Come experience beautiful community &#x2764;",
+            "Title": "",
+            "Author": {
+              "Name": "Nancy Camacho",
+              "Gender": "Female",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a-/AOh14GgMLQH4hmb77AeTUeLaMd1B5z9huVSZUFM4TT88=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/da8ec3578f225c892317e22b515b62b7.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "827597387373200869": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2021-03-02 23:36:53+00:00",
+            "Text": "Great place to live good management and fast maintenance",
+            "Title": "",
+            "Author": {
+              "Name": "Allen Chrismon",
+              "Gender": "Male",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a/AATXAJzh6hb4736UB_0nZ5Uhw5lSZwcfF8emZQYfxOvN=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/081270b01eb93d2e6f6037afe1cb5c96.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "100",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          },
+          "2141104622970766096": {
+            "SourceID": 95,
+            "SourcePage": "https://www.google.com/async/reviewDialog?ei=bI2GW9b0GM_YwQLB9qbYCw&yv=3&async=feature_id:0x0%3a0x5aa0aa40ee1fa787,review_source:Google,sort_by:qualityScore,start_index:0,is_owner:false,filter_text:,async_id_prefix:,_pms:s,_fmt:pc&hl=en-US",
+            "Posted": "2020-09-02 23:36:53+00:00",
+            "Text": "Incredible lack of empathy. I was hoping to get an apartment because I was planning on moving for a new job and they rejected me purely based on the fact that I haven’t been out of school for five months and it’s been a little more than four months. Seriously, have some compassion.",
+            "Title": "",
+            "Author": {
+              "Name": "Jared Sleppy",
+              "Gender": "Male",
+              "Age": null,
+              "UserOrigin": null,
+              "Avatar": {
+                "Origin": "https://lh3.googleusercontent.com/a-/AOh14GhWmY5SCyNVXHWPp4fE75IbSHN9kJ12A8TM7M-v=s40-c-c0x00000000-cc-rp-mo-br100",
+                "Cache": "avatars/9369ee8c71d74eb5607d5db994d9c68b.jpg"
+              }
+            },
+            "Engagement": {
+              "Rating": "20",
+              "Comments": null,
+              "Likes": null,
+              "Dislikes": null,
+              "Views": null
+            },
+            "Media": [],
+            "Helpful": 0,
+            "Unhelpful": 0
+          }
+        },
+        "Mentions": [ "7631425750772040676", "16920557413102371426", "9721000223295419826", "4573811059829710561", "10515428541688294526", "8148235751068712456", "8281942745421526833", "8067003584491883154", "827597387373200869", "2141104622970766096" ],
+        "Media": [],
+        "Tags": {
+          "praises": {
+            "Patterns": null,
+            "Sentiment": 836,
+            "Keys": [ "7631425750772040676", "16920557413102371426", "9721000223295419826", "4573811059829710561", "10515428541688294526", "8148235751068712456", "8067003584491883154", "8281942745421526833", "827597387373200869" ]
+          },
+          "run downs": {
+            "Patterns": null,
+            "Sentiment": 38,
+            "Keys": [ "2141104622970766096" ]
+          }
+        },
+        "originalPhrase": "hotel apartment tino castellarquato 11350 pag island",
+        "isMultiple": false
+      }
+    }
+  ]
+}
